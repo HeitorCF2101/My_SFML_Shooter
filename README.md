@@ -4,4 +4,6 @@ This Project is also used as a base and reference for future projects with SFML 
 
 If you want to use my code as a base or exemple it's fine, but I would apreciate beeing credited and getting an email about it.
 
+This project is beeing suported and mainteined in Windows, so it probably won't work well on Linux or MacOS, if you want to make a version capable of working with those systems let me know
+
 Sorry for any bad english and thanks for reading!
